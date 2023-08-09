@@ -3,7 +3,7 @@
 
 Задание 1.
 
-![img](https://github.com/vadimtsvetkov/Monitoring_hw_03/blob/main/My_template.jpg)
+![img]()
 
 Задание 2-3.
 
